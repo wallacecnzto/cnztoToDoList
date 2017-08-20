@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# cnztoToDoList
+>>>>>>> 0300c6861f1d6eeead3ace8498a59b90b90da91b
